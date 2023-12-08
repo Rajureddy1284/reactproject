@@ -213,7 +213,7 @@ const INITIAL_STATE = {
       price: 129.95,
       description: "6.5kg, Top Load, Inverter Fully Automatic,BEE 5 Star Rating.Ideal for 4-6 Family Size,9 Wash Programs .Wobble Technology, Magic Filter, Smart Check",
       category: "electronics",
-      image: "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694163683/259355_mc4ek1.png?tr=w-480",
+      image: washingMachine,
       rating: {
         rate: 2.9,
         count: 340,
